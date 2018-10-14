@@ -65,7 +65,7 @@
 	<br/><br/>
 	<footer class="footer">
 		<div class="container">
-			<span class="text-muted">Created By Ridowan - ridowann@gmail.com</span>
+			<span class="text-muted">Created ...</span>
 		</div>
 	</footer>
 
